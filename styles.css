@@ -33,6 +33,7 @@ body{
 	margin:10px;
 	justify-content:space-evenly;
 	height:400px;
+	flex-wrap: wrap;
 	display:flex;
 	}
 .container2{
