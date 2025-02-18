@@ -5,9 +5,9 @@ body{
 
 	height:100px;
 
-.container{
+.header{
 	width:100vw;
-	height:100px;
+	height:80px;
 	justify-content:space-around;
 	padding:20px;
 	text-align:center;
@@ -50,6 +50,7 @@ body{
 }
 .pictorial-news-section{
 	display:flex-column;
+	flex-wrap:wrap;
 	padding:10px;
 	height:380px;
 	width:200px;
